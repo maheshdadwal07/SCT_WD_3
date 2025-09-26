@@ -21,6 +21,7 @@ CSS3 – Styling and responsive UI
 JavaScript – Game logic and interactivity
 
 📂 Project Structure
+
 ├── index.html   
 ├── style.css    
 └── script.js    
